@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
-    "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
+    "name": "Jordi Moltó Solís",
+    "label": "Frontend Developer con más de 3 años de experiencia",
+    "image": "/avatarjordi.png",
+    "email": "jordimolto1@gmail.com",
+    "phone": "+34 652 37 68 30",
     "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "summary": "Me gradué en el instituto CIPFP BATOI del grado superior DAW(Desarrollo de Aplicaciones Web). Durante el último curso, realicé la DUAL en 'acceseo', y en cuanto acabé la DUAL y el grado superior, me mudé a Valencia para trabajar como Desarrollador web en la startup 'Viviendea'. Me considero una persona responsable, autodidacta, paciente y con capacidad de aprender rápidamente. Me gusta estar en constante formación y aprendiendo cosas nuevas, incluso otros sectores como la edición de vídeo, foto, diseño, etc.",
     "location": {
       "address": "",
       "postalCode": "08820",
-      "city": "el Prat de Llobregat",
+      "city": "Sant Vicent del Raspeig",
       "countryCode": "ES",
       "region": "España"
     },
@@ -18,174 +18,144 @@
       {
         "network": "LinkedIn",
         "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "url": "https://www.linkedin.com/in/jordi-molto/"
       },
       {
         "network": "X",
         "username": "midudev",
-        "url": "https://x.com/midudev"
+        "url": "https://x.com/jordietet"
       },
       {
         "network": "GitHub",
         "username": "midudev",
-        "url": "https://github.com/midudev"
+        "url": "https://github.com/jordimolto"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Frontend Developer",
+      "position": "Zataca Systems",
+      "startDate": "2023-08-28",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
-      "highlights": [
-        "Started the company"
-      ]
+      "summary": "Encargado del desarrollo frontend de la aplicación web."
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
+      "name": "Frontend Developer",
+      "position": "Viviendea",
+      "startDate": "2022-06-01",
+      "endDate": "2023-08-20",
+      "summary": "Encargado del desarrollo de la aplicación interna de Viviendea, solución de incidencias, soporte técnico, mantenimiento web."
+    },
+    {
+      "name": "DUAL - Frontend Developer",
+      "position": "acceseo",
       "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": [
-        "Started the company"
-      ]
+      "startDate": "2021-09-01",
+      "endDate": "2022-07-20",
+      "summary": "Encargado de: Wordpress, solución de incidencias, SEO técnico, soporte técnico, mantenimiento web.",
+      "highlights": ["Started the company"]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
-      "highlights": [
-        "Started the company"
-      ]
+      "name": "Frontend Developer",
+      "position": "Doblemente",
+      "startDate": "2019-02-21",
+      "endDate": "2020-05-21",
+      "highlights": ["Started the company"]
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
-  "skills": [
+  "volunteer": [
     {
-      "name": "HTML",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend"
-      ]
-    },
-    {
-      "name": "CSS",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Avanzado",
-      "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
     }
+  ],
+  "education": [
+    {
+      "institution": "Técnico en Sistemas Microinformáticos y Redes",
+      "area": "San Roque - Alcoy",
+      "studyType": "FP",
+      "startDate": "2016-09",
+      "endDate": "2018-09",
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    },
+    {
+      "institution": "DAW (Desarrollo de Aplicaciones Web)",
+      "area": "CIPFP BATOI - Alcoy",
+      "studyType": "FP",
+      "startDate": "2016-09",
+      "endDate": "2018-09",
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    { "name": "GIT" },
+    { "name": "JavaScript" },
+    { "name": "VUE2 / VUE3" },
+    { "name": "React.js" },
+    { "name": "PHP" },
+    { "name": "..." }
+  ],
+  "skills2": [
+    { "name": "Playwright" },
+    { "name": "Webpack" },
+    { "name": "Blade" },
+    { "name": "Wordpress avanzado" },
+    { "name": "Inertia" },
+    { "name": "Ziggy" },
+    { "name": "Bootstrap" },
+    { "name": "Prestashop" },
+    { "name": "SOLID" },
+    { "name": "Visual Studio Code" },
+    { "name": "Terminal" },
+    { "name": "Vite" },
+    { "name": "Figma" },
+    { "name": "Photoshop" },
+    { "name": "Sony Vegas" },
+    { "name": "Camtasia Studio" },
+    { "name": "DaVinci" },
+    { "name": "Pixlr" },
+    { "name": "Gimp" },
+    { "name": "Paint" },
+    { "name": "Canva" },
+    { "name": "Wireframe" },
+    { "name": "Web/Mobile/Apps" },
+    { "name": "SEO" },
+    { "name": "Jira" },
+    { "name": "Microsoft Office" },
+    { "name": "Gestión de redes sociales" }
   ],
   "languages": [
     {
@@ -197,26 +167,24 @@
       "fluency": "Advanced"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
   "projects": [
     {
       "name": "mars.codes",
       "isActive": true,
       "description": "Historia interactiva con retos de programación para viajar a Marte",
-      "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
-      ],
+      "highlights": ["Elige tu propia aventura", "En desarrollo"],
       "url": "https://mars.codes"
     },
     {
@@ -234,20 +202,14 @@
       "name": "Codember",
       "isActive": true,
       "description": "Juego interactivo de programación con retos y secretos",
-      "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
-      ],
+      "highlights": ["+2000 usuarios activos", "Retos para cualquier lenguaje"],
       "url": "https://codember.dev"
     },
     {
       "name": "codi.link",
       "isActive": true,
       "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
-      ],
+      "highlights": ["100k visitas al mes", "Desarrollado por la comunidad"],
       "url": "https://codi.link",
       "github": "https://github.com/midudev/codi.link"
     },
@@ -255,20 +217,14 @@
       "name": "Pruebas Técnicas",
       "isActive": true,
       "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
+      "highlights": ["100% gratuito", "+500 soluciones de la comunidad"],
       "url": "https://pruebastecnicas.com",
       "github": "https://github.com/midudev/pruebas-tecnicas"
     },
     {
       "name": "miduConf",
       "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
+      "highlights": ["+15k tickets repartidos", "+50k espectadores en directo"],
       "url": "https://miduconf.com"
     }
   ]
